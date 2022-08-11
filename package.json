@@ -1,0 +1,16 @@
+{
+  "name": "eshopwrapper",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "demo on apisuace to connect to apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevin beier",
+  "license": "MIT",
+  "dependencies": {
+    "apisauce": "^2.1.5",
+    "base-64": "^1.0.0"
+  }
+}

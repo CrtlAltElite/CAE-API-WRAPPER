@@ -1,0 +1,100 @@
+Sour
+    gio
+    shayne
+    jacoby
+
+Chocolate
+    sarah
+    andre
+    francisco 
+    alex
+
+Gummy
+    jody
+    dmitry
+    dylan
+
+
+{
+   "name" : "",
+   "desc":"",
+   "img":"http://"
+   "price":NUMBER
+}
+
+
+SOURSS
+{
+   "name": "Sour Nanners",
+   "desc": "Lil' sour banana shaped candies",
+   "img": "https://www.candywarehouse.com/item-images/127881-01_bananarama-candy-bananas-5lb-bag.jpg",
+   "price": 0.99,
+   "category_id": 3
+}
+
+{
+    "name" : "sour good and plenty",
+    "desc" : "sour encrusted black licorice",
+    "img": "https://i.pinimg.com/originals/ff/4c/b8/ff4cb8bf5d88934dc5e2bb6d166211ae.jpg",
+    "price": 00.01,
+    "category_id": 3
+}
+
+{
+    "name" : "Lucas Sour Candy",
+    "desc" : "Lucas Acidito Sour Apple Variety/Manzana Verde",
+    "img" : "https://i.etsystatic.com/22563725/r/il/a46f44/2994205574/il_1140xN.2994205574_jfui.jpg",
+    "price" : 1.25,
+    "category_id": 3
+}
+
+GUMMIES
+{
+    "name" : "Jelly Belly Harry Potter Jelly Slugs Candy",
+    "desc" : "Ron's favourite food. Eat slugs!",
+    "img": "https://m.media-amazon.com/images/I/812egwRC2RL._SL1500_.jpg",
+    "price": 99.99,
+    "category_id":5
+}
+
+{
+    “name” : “Cold Brew Gummies”,
+    “desc” :“”Cool beans” takes on a whole new meaning with our buzz-worthy cold brew-infused gummy bears”
+    “img” :“https://www.sugarfina.com/media/catalog/product/cache/12b8e415bcf5fd5e98f3f28e7ba89171/c/o/cold_brew_bears_01-egg-dish-1_web_1.jpg”
+    “price”: 8.95,
+    "category_id":5
+}
+
+{
+    'name': 'Mega-Bear',
+    'desc':'26 pounds of cherry satisfaction',
+    'img':'https://res.cloudinary.com/dc0hokgpp/image/upload/v1660240946/big-ol-bear-display__44344_jhskot.jpg',
+    'price': 42.00,
+    "category_id":5
+}
+
+
+
+Chocolate
+
+{
+    "name": "Milkyway simply caramel",
+    "desc": "Chocolate covered candy bar.",
+    "img": "http://www.candywarehouse.com/item-images/126618-01_milky-way-simply-caramel-fun-size-candy-bars-14-piece-bag.jpg",
+    "price": "1.29"
+}
+
+{
+    "name" : "Snickers",
+    "desc" : "The best cholocate out there!",
+    "img" : "https://c8.alamy.com/comp/DPCX0C/a-snickers-chocolate-bar-DPCX0C.jpg",
+    "price" : "299.99"
+}
+
+{
+    "name": "Choco Chuck",
+    "desc": "Choco Hamster",
+    "img": "https://produits.bienmanger.com/30131-0w0h0_Funny_Easter_Hedgehog_Milk_Chocolat_Mister.jpg",
+    "price": 29.99
+}
+
